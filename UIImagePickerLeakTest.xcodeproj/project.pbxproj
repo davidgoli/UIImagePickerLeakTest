@@ -13,7 +13,6 @@
 		63B723731F27D20500BCFE19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63B723721F27D20500BCFE19 /* Assets.xcassets */; };
 		63B723761F27D20500BCFE19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63B723741F27D20500BCFE19 /* LaunchScreen.storyboard */; };
 		63B7237E1F27D21F00BCFE19 /* Camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B7237D1F27D21E00BCFE19 /* Camera.swift */; };
-		63B723801F27D34700BCFE19 /* CameraOverlay.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63B7237F1F27D34700BCFE19 /* CameraOverlay.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		63B723751F27D20500BCFE19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63B723771F27D20500BCFE19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63B7237D1F27D21E00BCFE19 /* Camera.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = "<group>"; };
-		63B7237F1F27D34700BCFE19 /* CameraOverlay.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CameraOverlay.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +59,6 @@
 				63B7236B1F27D20500BCFE19 /* AppDelegate.swift */,
 				63B7236D1F27D20500BCFE19 /* ViewController.swift */,
 				63B7237D1F27D21E00BCFE19 /* Camera.swift */,
-				63B7237F1F27D34700BCFE19 /* CameraOverlay.xib */,
 				63B7236F1F27D20500BCFE19 /* Main.storyboard */,
 				63B723721F27D20500BCFE19 /* Assets.xcassets */,
 				63B723741F27D20500BCFE19 /* LaunchScreen.storyboard */,
@@ -131,7 +128,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				63B723761F27D20500BCFE19 /* LaunchScreen.storyboard in Resources */,
-				63B723801F27D34700BCFE19 /* CameraOverlay.xib in Resources */,
 				63B723731F27D20500BCFE19 /* Assets.xcassets in Resources */,
 				63B723711F27D20500BCFE19 /* Main.storyboard in Resources */,
 			);
